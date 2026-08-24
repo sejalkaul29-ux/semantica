@@ -117,7 +117,7 @@ llm-all = [
 parse-docling = ["docling>=2.107.0"]
 
 # ---- SHACL Validation ----
-shacl = ["pyshacl>=0.25.0"]
+shacl = ["pyshacl>=0.40.1"]
 
 # ---- Database Connectors ----
 db-snowflake = ["snowflake-connector-python>=4.6.0", "cryptography>=49.0.0"]
