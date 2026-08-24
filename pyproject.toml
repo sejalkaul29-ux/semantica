@@ -150,7 +150,7 @@ graph-all = [
 tripletstore-oxigraph = ["pyoxigraph>=0.5.0"]
 
 # ---- Vector Store Backends ----
-vectorstore-qdrant = ["qdrant-client>=1.0.0"]
+vectorstore-qdrant = ["qdrant-client>=1.19.0"]
 vectorstore-weaviate = ["weaviate-client>=4.0.0"]
 vectorstore-pinecone = ["pinecone-client>=3.0.0"]
 vectorstore-milvus = ["pymilvus>=2.0.0"]
